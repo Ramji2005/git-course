@@ -1,2 +1,4 @@
 get user the data....!
 Add the new user data
+
+create the user avatar...
